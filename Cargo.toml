@@ -1,5 +1,5 @@
 [package]
-name = "iter_utils"
+name = "ai_iter_utils"
 version = "0.1.0"
 edition = "2021"
 description = "A short description of my package"
